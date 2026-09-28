@@ -23,11 +23,3 @@ DevPulse Workspace is a high-performance, modern project management and team col
 - Drag & Drop: @hello-pangea/dnd
 - State Management: React Context API (WorkspaceContext)
 
----
-
-## Getting Started
-
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/your-username/devpulse.git](https://github.com/your-username/devpulse.git)
-   cd devpulse
